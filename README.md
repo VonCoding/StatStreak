@@ -32,7 +32,7 @@ BoxIQ is a machine learning-powered statline assistant for prop bettors, fantasy
 
 - **Frontend**: HTML, CSS, vanilla JS (React variant coming)
 - **Backend Model**: Python / Scikit-learn → Converted to `.pkl`
-- **Modeling**: Custom logic and data preprocessing pipelines (in progress)
+- **Modeling**: Custom logic and data preprocessing pipelines
 
 ---
 
